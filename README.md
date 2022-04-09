@@ -8,19 +8,19 @@ Train machine learning algorithms to classify tweets as real of fake. Algorithms
 
 ## Preprocessing
 
--Changing data labelled 'humor' to 'fake'
--Removing unwanted content such as URLs and emojis
--Removing stop words
--Tokenising and lemmatising the words
--Creating two pairs of training and testing sets with bag-of-words and TF-IDF vectorisation
+-Changing data labelled 'humor' to 'fake' <br/>
+-Removing unwanted content such as URLs and emojis<br/>
+-Removing stop words<br/>
+-Tokenising and lemmatising the words<br/>
+-Creating two pairs of training and testing sets with bag-of-words and TF-IDF vectorisation<br/>
 
 ## Algorithms
 
--Multinomial Naive-Bayes
--Passive-Aggressive
--Support vector machine
+-Multinomial Naive-Bayes<br/>
+-Passive-Aggressive<br/>
+-Support vector machine<br/>
 
 ## Evaluation
 
--All algorithms had better F1 scores with TF-IDF vectorisation
+-All algorithms had better F1 scores with TF-IDF vectorisation<br/>
 -Best F1 score obtained by multinomial Naive-Bayes with TF-IDF: 0.895
